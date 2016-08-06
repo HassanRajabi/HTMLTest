@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'IRANSans Light';
+    src: url('fonts/IRANSansLight.ttf') format('truetype')
+}
+body {
+    direction: rtl;
+    font-family: 'IRANSans Light', sans-serif !important;
+    background: url("bg.jpg") repeat;
+    margin-top: 20px;
+}
+.jumbotron {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 30px !important;
+    background-color: #b3ffb3;
+
+}
+.form-group{
+	margin-top: 30px;
+}
+.btn{
+	background-color: #00ffff
+}
+
